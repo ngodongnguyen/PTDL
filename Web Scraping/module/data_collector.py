@@ -132,7 +132,7 @@ def get_product_links(n):
 
     try:
         # Lặp qua các trang từ 1 đến n
-        for pageNum in range(n, n+100):
+        for pageNum in range(n, n+200):
             driver = webdriver.Chrome(options=options)
             # Mở trang web
             url = baseUrl + str(pageNum)
