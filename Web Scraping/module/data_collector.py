@@ -110,7 +110,7 @@ def savedata(links, getdata):
 
         # Mỗi 100 link thì lưu vào một file JSON
         if (i + 1) % 100 == 0:
-            filename = f"data_{(i + 1) // 100}.json"  # Tạo tên file cho mỗi 100 link
+            filename = f"data_{i}.json"  # Tạo tên file cho mỗi 100 link
             save_to_json(data_list, filename)
             print(f"Đã lưu {filename} với {len(data_list)} mục.")
             data_list = []  # Reset danh sách dữ liệu để tiếp tục
