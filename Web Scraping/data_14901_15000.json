@@ -1,0 +1,1015 @@
+[
+    {
+        "DiaChi": "Đường Lê Văn Quới, Phường Bình Hưng Hoà A, Quận Bình Tân, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "58 m²",
+        "Gia/M2": "78,45 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Mặt tiền\nHẻm xe hơi",
+        "ChieuNgang": "7.2 m",
+        "ChieuDai": "8 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "1A, Đường tỉnh 823, Xã Hòa Khánh Tây, Huyện Đức Hòa, Long An",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "405 m²",
+        "Gia/M2": "20,99 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Đông",
+        "DacDiemNha/Dat": "Mặt tiền\nNở hậu\nThổ cư toàn bộ",
+        "ChieuNgang": "10 m",
+        "ChieuDai": "40.5 m",
+        "TenPhanKhu": "Mặt tiền đường 823 ấp Tân Bình",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường 12m, Xã Long Tân, Huyện Dầu Tiếng, Bình Dương",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "850 m²",
+        "Gia/M2": "811.764 đ/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Khu bến xe trung tâm đà nẵng , Đinh liệt nối dài , Phường Hòa Phát, Quận Cẩm Lệ, Đà Nẵng",
+        "LoaiHinhDat": "Đất nông nghiệp",
+        "DienTichDat": "400 m²",
+        "Gia/M2": "1,38 triệu/m²",
+        "GiayToPhapLy": "Không có sổ",
+        "HuongDat": "Đông Nam",
+        "DacDiemNha/Dat": "Nở hậu\nHẻm xe hơi\nChưa có thổ cư",
+        "ChieuNgang": "25 m",
+        "ChieuDai": "20 m",
+        "TenPhanKhu": "Khu bến xe trung tâm đà nẵng",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Tỉnh lộ 8, Xã Bình Mỹ, Huyện Củ Chi, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "1000 m²",
+        "Gia/M2": "7 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "ChieuNgang": "18 m",
+        "ChieuDai": "56 m"
+    },
+    {
+        "DiaChi": "Đường Hà Duy Phiên, Xã Bình Mỹ, Huyện Củ Chi, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "87 m²",
+        "Gia/M2": "18,97 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Hẻm xe hơi"
+    },
+    {
+        "DiaChi": "BÌNH DÃ, Phường Hắc Dịch, Thị xã Phú Mỹ, Bà Rịa - Vũng Tàu",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "10000 m²",
+        "Gia/M2": "2,80 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Quốc Lộ 50, Xã Phước Đông, Huyện Cần Đước, Long An",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "100 m²",
+        "Gia/M2": "19,50 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Mặt tiền",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "20 m",
+        "TenPhanKhu": "KDC Cầu Cảng PHƯỚC ĐÔNG\n CẦN ĐƯỚC\n LONG AN"
+    },
+    {
+        "DiaChi": "Đường Số 35, Phường Long Bình (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "51 m²",
+        "Gia/M2": "48,04 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Hẻm xe hơi",
+        "ChieuNgang": "5.6 m"
+    },
+    {
+        "DiaChi": "Đường Vườn Lài, Phường An Phú Đông, Quận 12, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "50.6 m²",
+        "Gia/M2": "78,06 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "ChieuNgang": "4 m",
+        "ChieuDai": "14 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Huỳnh Tấn Phát, Phường Tân Thuận Đông, Quận 7, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "50 m²",
+        "Gia/M2": "81 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Đông",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "10 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường tỉnh 761, Xã Phú Lý, Huyện Vĩnh Cửu, Đồng Nai",
+        "LoaiHinhDat": "Đất nông nghiệp",
+        "DienTichDat": "1003 m²",
+        "Gia/M2": "648.055 đ/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Mặt tiền\nHẻm xe hơi\nNở hậu",
+        "ChieuNgang": "12 m",
+        "ChieuDai": "89 m"
+    },
+    {
+        "DiaChi": "Đường Trần Quang Đạo, Xã Bình Khánh, Huyện Cần Giờ, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "276 m²",
+        "Gia/M2": "13,04 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Hẻm xe hơi\nThổ cư 1 phần",
+        "ChieuNgang": "13.46 m",
+        "ChieuDai": "20.5 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Tl 31, Phường Thạnh Lộc, Quận 12, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất nông nghiệp",
+        "DienTichDat": "43 m²",
+        "Gia/M2": "29,07 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Hẻm xe hơi",
+        "ChieuNgang": "3.1 m",
+        "ChieuDai": "14 m"
+    },
+    {
+        "DiaChi": "Đường Lâm Văn Bền, Phường Tân Kiểng, Quận 7, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "79 m²",
+        "Gia/M2": "88,61 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Tây",
+        "DacDiemNha/Dat": "Hẻm xe hơi",
+        "ChieuNgang": "4.1 m",
+        "ChieuDai": "19.5 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Thạnh Xuân 25, Phường Thạnh Xuân, Quận 12, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "175 m²",
+        "Gia/M2": "28 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Hẻm xe hơi",
+        "ChieuNgang": "4.5 m",
+        "ChieuDai": "40 m"
+    },
+    {
+        "DiaChi": "Thạnh Xuân 39, Phường Thạnh Xuân, Quận 12, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "60 m²",
+        "Gia/M2": "57,50 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Mặt tiền\nHẻm xe hơi",
+        "ChieuNgang": "4.2 m",
+        "ChieuDai": "14 m"
+    },
+    {
+        "DiaChi": "Đường Lâm Văn Bền, Phường Tân Kiểng, Quận 7, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "62.6 m²",
+        "Gia/M2": "103,83 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Bắc",
+        "DacDiemNha/Dat": "Hẻm xe hơi\nNở hậu",
+        "ChieuNgang": "4.2 m",
+        "ChieuDai": "14.5 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Hà Huy Giáp, Phường Thạnh Lộc, Quận 12, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "65 m²",
+        "Gia/M2": "51,54 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "ChieuNgang": "5.5 m",
+        "ChieuDai": "12 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Thới Tam Thôn 16, Xã Thới Tam Thôn, Huyện Hóc Môn, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "128 m²",
+        "Gia/M2": "16,41 triệu/m²",
+        "GiayToPhapLy": "Sổ chung / công chứng vi bằng",
+        "HuongDat": "Nam",
+        "ChieuNgang": "8 m",
+        "ChieuDai": "16 m",
+        "TenPhanKhu": "thoi tam thon 16"
+    },
+    {
+        "DiaChi": "Đường Hà Huy Giáp, Phường Thạnh Lộc, Quận 12, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "90 m²",
+        "Gia/M2": "46,67 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Hẻm xe hơi",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "18 m"
+    },
+    {
+        "DiaChi": "QL1A, Xã Cẩm Kim, Thành phố Hội An, Quảng Nam",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "190 m²",
+        "Gia/M2": "4,97 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Đông Nam",
+        "DacDiemNha/Dat": "Mặt tiền\nThổ cư toàn bộ",
+        "ChieuNgang": "7.5 m",
+        "ChieuDai": "29 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Bình Nhảm 26, Phường Bình Nhâm, Thành phố Thuận An, Bình Dương",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "660 m²",
+        "Gia/M2": "16,67 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Hẻm xe hơi"
+    },
+    {
+        "DiaChi": "Đường Tôn Đản, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "80 m²",
+        "Gia/M2": "29,38 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Đông Nam",
+        "DacDiemNha/Dat": "Hẻm xe hơi",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "16 m"
+    },
+    {
+        "DiaChi": "Long Thới , Nhà Bè, Xã Long Thới, Huyện Nhà Bè, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "1200 m²",
+        "Gia/M2": "15,83 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Mặt tiền",
+        "ChieuNgang": "8.5 m",
+        "TenPhanKhu": "Long Thới , Nhà Bè",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "30/4 nối dài , Ấp Ngãi Hội 2, Thị trấn Đại Ngãi, Huyện Long Phú, Sóc Trăng",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "152 m²",
+        "Gia/M2": "3,42 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Hẻm xe hơi",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "30 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Lê Thị Lơ, Xã Tân Hiệp, Huyện Hóc Môn, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "109 m²",
+        "Gia/M2": "24,31 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Nam",
+        "DacDiemNha/Dat": "Nở hậu",
+        "ChieuNgang": "6 m",
+        "ChieuDai": "18 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "23, Xã Kim Chung, Huyện Đông Anh, Hà Nội",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "84 m²",
+        "Gia/M2": "71,43 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Quốc Lộ 21, Xã Phú Mãn, Huyện Quốc Oai, Hà Nội",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "200 m²",
+        "Gia/M2": "12 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Nam",
+        "DacDiemNha/Dat": "Mặt tiền\nHẻm xe hơi\nThổ cư 1 phần",
+        "ChieuNgang": "10 m",
+        "ChieuDai": "20 m"
+    },
+    {
+        "DiaChi": "Gần Bờ hồ Biconsi, Phường Tân Bình, Thành phố Dĩ An, Bình Dương",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "94 m²",
+        "Gia/M2": "24,47 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "ChieuNgang": "4.2 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "107 m²",
+        "Gia/M2": "98,13 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "ChieuNgang": "4.1 m",
+        "ChieuDai": "26 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Lê Duẩn, Xã An Phước, Huyện Long Thành, Đồng Nai",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "639 m²",
+        "Gia/M2": "29,73 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Đông",
+        "DacDiemNha/Dat": "Mặt tiền\nThổ cư 1 phần",
+        "ChieuNgang": "9 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đông Thạnh 6-3, Xã Đông Thạnh, Huyện Hóc Môn, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất nông nghiệp",
+        "DienTichDat": "108 m²",
+        "Gia/M2": "17,59 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Chưa có thổ cư",
+        "ChieuNgang": "6 m",
+        "ChieuDai": "18 m"
+    },
+    {
+        "DiaChi": "Đường Võ Văn Hát, Phường Long Trường (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "501 m²",
+        "Gia/M2": "29,94 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Mặt tiền\nNở hậu\nThổ cư 1 phần",
+        "ChieuNgang": "14 m",
+        "ChieuDai": "35 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường ĐT. 826C, Xã Phước Lại, Huyện Cần Giuộc, Long An",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "100 m²",
+        "Gia/M2": "6,80 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Đông",
+        "DacDiemNha/Dat": "Thổ cư toàn bộ",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "20 m"
+    },
+    {
+        "DiaChi": "Đường Trường Chinh, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "70 m²",
+        "Gia/M2": "29,29 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Bắc",
+        "ChieuNgang": "8 m",
+        "ChieuDai": "9 m"
+    },
+    {
+        "DiaChi": "Đường Nguyễn Thị Thử, Xã Xuân Thới Sơn, Huyện Hóc Môn, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "130 m²",
+        "Gia/M2": "25,77 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Đông Nam",
+        "DacDiemNha/Dat": "Hẻm xe hơi\nThổ cư toàn bộ",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "26 m"
+    },
+    {
+        "DiaChi": "Đường Ngô Nhân Tịnh, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "75 m²",
+        "Gia/M2": "36,67 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Mặt tiền",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "15 m"
+    },
+    {
+        "DiaChi": null
+    },
+    {
+        "DiaChi": "Đường Thạnh Xuân 38, Phường Thạnh Xuân, Quận 12, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "70 m²",
+        "Gia/M2": "38,57 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Đông Nam",
+        "DacDiemNha/Dat": "Hẻm xe hơi\nThổ cư 1 phần",
+        "ChieuNgang": "5.4 m",
+        "ChieuDai": "14 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Hẻm 5 Bùi Hữu Nghĩa, Phường Bình Thủy, Quận Bình Thuỷ, Cần Thơ",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "203.7 m²",
+        "Gia/M2": "18,65 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Tây",
+        "DacDiemNha/Dat": "Hẻm xe hơi\nNở hậu\nThổ cư 1 phần",
+        "ChieuNgang": "4.1 m",
+        "ChieuDai": "35 m"
+    },
+    {
+        "DiaChi": "Quang Châu, Xã Hòa Châu, Huyện Hòa Vang, Đà Nẵng",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "120.1 m²",
+        "Gia/M2": "9,58 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Tây Nam",
+        "DacDiemNha/Dat": "Mặt tiền"
+    },
+    {
+        "DiaChi": "Đường ĐT. 816, Xã Bình Đức, Huyện Bến Lức, Long An",
+        "LoaiHinhDat": "Đất nông nghiệp",
+        "DienTichDat": "500 m²",
+        "Gia/M2": "900.000 đ/m²",
+        "GiayToPhapLy": "Đã có sổ"
+    },
+    {
+        "DiaChi": "Đường Nguyễn Bính, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "105 m²",
+        "Gia/M2": "33,33 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Đông Bắc",
+        "DacDiemNha/Dat": "Mặt tiền",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "21 m",
+        "TenPhanKhu": "135"
+    },
+    {
+        "DiaChi": "Đường Nguyễn Văn Bứa, Xã Xuân Thới Thượng, Huyện Hóc Môn, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "986 m²",
+        "Gia/M2": "14,20 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Đông Nam",
+        "DacDiemNha/Dat": "Thổ cư 1 phần\nHẻm xe hơi",
+        "ChieuNgang": "19.8 m",
+        "ChieuDai": "51 m"
+    },
+    {
+        "DiaChi": "Đường Nguyễn Hoàng, Xã Sông Trầu, Huyện Trảng Bom, Đồng Nai",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "118 m²",
+        "Gia/M2": "6,10 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Hẻm xe hơi",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "24 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Quốc lộ 1, Thị trấn Trảng Bom, Huyện Trảng Bom, Đồng Nai",
+        "LoaiHinhDat": "Đất nền dự án",
+        "DienTichDat": "95 m²",
+        "Gia/M2": "16,32 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Mặt tiền",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "19 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Nguyễn Công Hoan, Phường Hòa An, Quận Cẩm Lệ, Đà Nẵng",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "80 m²",
+        "Gia/M2": "32,88 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Đông Nam",
+        "DacDiemNha/Dat": "Hẻm xe hơi",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "16 m"
+    },
+    {
+        "DiaChi": "Đường 4m, Xã Hòa Ninh, Huyện Hòa Vang, Đà Nẵng",
+        "LoaiHinhDat": "Đất nông nghiệp",
+        "DienTichDat": "491 m²",
+        "Gia/M2": "1,12 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Nam",
+        "DacDiemNha/Dat": "Mặt tiền\nHẻm xe hơi\nChưa có thổ cư",
+        "ChieuNgang": "21 m",
+        "ChieuDai": "34 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Tân Phước, Phường Tân Bình, Thành phố Dĩ An, Bình Dương",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "113 m²",
+        "Gia/M2": "25,66 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Mặt tiền",
+        "ChieuNgang": "4 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "70, Đường Đào Văn Thử, Xã Tân An Hội, Huyện Củ Chi, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "305 m²",
+        "Gia/M2": "8,36 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Đông",
+        "DacDiemNha/Dat": "Mặt tiền\nKhông có thổ cư",
+        "ChieuNgang": "6.5 m",
+        "ChieuDai": "47 m",
+        "TenPhanKhu": "Cầu vượt củ Chi",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Huyện Lộ Châu Thành 21, Xã Phước Thạnh, Huyện Châu Thành, Bến Tre",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "415 m²",
+        "Gia/M2": "3,50 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Đông Nam",
+        "DacDiemNha/Dat": "Mặt tiền\nChưa có thổ cư",
+        "ChieuNgang": "8.5 m",
+        "ChieuDai": "49 m"
+    },
+    {
+        "DiaChi": "Nguyễn Hoàng, Xã Thanh Bình, Huyện Trảng Bom, Đồng Nai",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "130 m²",
+        "Gia/M2": "9,62 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Tây Bắc",
+        "DacDiemNha/Dat": "Mặt tiền\nThổ cư 1 phần",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "26 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Nhựa 5m, Xã Hòa Ninh, Huyện Hòa Vang, Đà Nẵng",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "115 m²",
+        "Gia/M2": "12,87 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Đông Nam",
+        "DacDiemNha/Dat": "Mặt tiền\nHẻm xe hơi",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "23 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường tỉnh 743C, Phường Bình Hòa, Thành phố Thuận An, Bình Dương",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "91 m²",
+        "Gia/M2": "38,46 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Tây Bắc",
+        "DacDiemNha/Dat": "Hẻm xe hơi\nMặt tiền",
+        "ChieuNgang": "4.5 m",
+        "ChieuDai": "20 m"
+    },
+    {
+        "DiaChi": "Đường Nguyễn Hiền, Phường Dĩ An, Thành phố Dĩ An, Bình Dương",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "68 m²",
+        "Gia/M2": "41,91 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "ChieuNgang": "4.1 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Quốc Lộ 57B, Xã Long Hòa, Huyện Bình Đại, Bến Tre",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "729 m²",
+        "Gia/M2": "10,29 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Bắc",
+        "DacDiemNha/Dat": "Mặt tiền\nThổ cư 1 phần",
+        "ChieuNgang": "20.22 m"
+    },
+    {
+        "DiaChi": "Đường Vĩnh Phú 21, Phường Vĩnh Phú, Thành phố Thuận An, Bình Dương",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "225 m²",
+        "Gia/M2": "27,56 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Đông Bắc",
+        "DacDiemNha/Dat": "Mặt tiền\nHẻm xe hơi",
+        "ChieuNgang": "8.3 m",
+        "ChieuDai": "27 m"
+    },
+    {
+        "DiaChi": "Đường Thích Thiện Hoà, Xã Lê Minh Xuân, Huyện Bình Chánh, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "1730 m²",
+        "Gia/M2": "9,83 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "ChieuNgang": "30 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Nghĩa Lộ, Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "42 m²",
+        "Gia/M2": "120 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Hẻm xe hơi"
+    },
+    {
+        "DiaChi": "Ql14, Xã Đồng Tiến, Huyện Đồng Phú, Bình Phước",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "1000 m²",
+        "Gia/M2": "300.000 đ/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Mặt tiền"
+    },
+    {
+        "DiaChi": "Đường Nguyễn Tất Thành, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "120 m²",
+        "Gia/M2": "87,50 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Mặt tiền",
+        "ChieuNgang": "5 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "36, Đường Quốc lộ 14, Xã Minh Hưng, Huyện Bù Đăng, Bình Phước",
+        "LoaiHinhDat": "Đất nông nghiệp",
+        "DienTichDat": "2500 m²",
+        "Gia/M2": "1,80 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Đông Nam",
+        "DacDiemNha/Dat": "Mặt tiền\nKhông có thổ cư",
+        "ChieuNgang": "30 m",
+        "ChieuDai": "83 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Tú Xương, Phường Hiệp Phú (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "79.5 m²",
+        "Gia/M2": "86,79 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "ChieuNgang": "4 m",
+        "ChieuDai": "19.8 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Lê Sao, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "100 m²",
+        "Gia/M2": "32,90 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Tây Bắc",
+        "DacDiemNha/Dat": "Mặt tiền",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "20 m",
+        "TenPhanKhu": "123",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Hương Lộ 2, Phường Bình Trị Đông A, Quận Bình Tân, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "70 m²",
+        "Gia/M2": "55,71 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Hẻm xe hơi\nNở hậu",
+        "ChieuNgang": "4 m",
+        "ChieuDai": "17 m"
+    },
+    {
+        "DiaChi": "N17, Xã Thạnh Phú, Huyện Vĩnh Cửu, Đồng Nai",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "72 m²",
+        "Gia/M2": "18,75 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Mặt tiền\nHẻm xe hơi\nThổ cư toàn bộ",
+        "ChieuNgang": "4 m",
+        "ChieuDai": "18 m",
+        "TenPhanKhu": "A",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Số 1, Phường Tân Hưng, Quận 7, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "90 m²",
+        "Gia/M2": "233,33 triệu/m²",
+        "GiayToPhapLy": "Đang chờ sổ",
+        "ChieuNgang": "4.5 m",
+        "ChieuDai": "20 m"
+    },
+    {
+        "DiaChi": "Đường Số 1, Phường Tân Tạo A, Quận Bình Tân, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "70 m²",
+        "Gia/M2": "37,43 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Hẻm xe hơi\nNở hậu",
+        "ChieuNgang": "4 m",
+        "ChieuDai": "17 m"
+    },
+    {
+        "DiaChi": "Lê Văn Lương, Xã Phước Kiển, Huyện Nhà Bè, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất nền dự án",
+        "DienTichDat": "87.5 m²",
+        "Gia/M2": "66,86 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "ChieuNgang": "7 m",
+        "ChieuDai": "12.5 m"
+    },
+    {
+        "DiaChi": "Đường Đào Sư Tích, Xã Phước Kiển, Huyện Nhà Bè, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất nền dự án",
+        "DienTichDat": "112 m²",
+        "Gia/M2": "72,77 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "ChieuNgang": "8 m",
+        "ChieuDai": "14 m"
+    },
+    {
+        "DiaChi": "Đường Trịnh Thị Dối, Xã Đông Thạnh, Huyện Hóc Môn, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "80 m²",
+        "Gia/M2": "37,50 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "16 m"
+    },
+    {
+        "DiaChi": "Đường Lê Văn Lương, Xã Phước Kiển, Huyện Nhà Bè, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất nền dự án",
+        "DienTichDat": "80 m²",
+        "Gia/M2": "64,62 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "16 m"
+    },
+    {
+        "DiaChi": "Đường Lê Văn Lương, Xã Phước Kiển, Huyện Nhà Bè, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "80 m²",
+        "Gia/M2": "64,88 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "16 m"
+    },
+    {
+        "DiaChi": "Đường Trần Văn Mầu, Thị trấn Phước Hải, Huyện Đất Đỏ, Bà Rịa - Vũng Tàu",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "160 m²",
+        "Gia/M2": "45 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Mặt tiền",
+        "ChieuNgang": "8 m",
+        "ChieuDai": "20 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "79, Phường Hắc Dịch, Thị xã Phú Mỹ, Bà Rịa - Vũng Tàu",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "2000 m²",
+        "Gia/M2": "3,50 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Mặt tiền\nNở hậu",
+        "ChieuNgang": "28 m",
+        "ChieuDai": "70 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Nguyễn Xiển, Phường Long Thạnh Mỹ (Quận 9 cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "105 m²",
+        "Gia/M2": "47,62 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Hẻm xe hơi\nNở hậu",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "21 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Hai Bà Trưng, Phường Tân Đông Hiệp, Thành phố Dĩ An, Bình Dương",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "165 m²",
+        "Gia/M2": "22,12 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "ChieuNgang": "4.1 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": null
+    },
+    {
+        "DiaChi": "Đường Hai Bà Trưng, Phường Đông Hòa, Thành phố Dĩ An, Bình Dương",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "258 m²",
+        "Gia/M2": "25,97 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Mặt tiền\nHẻm xe hơi\nNở hậu",
+        "ChieuNgang": "12 m",
+        "ChieuDai": "22 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Nguyễn Hữu Cảnh, Phường Đông Hòa, Thành phố Dĩ An, Bình Dương",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "162 m²",
+        "Gia/M2": "58,58 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Mặt tiền\nHẻm xe hơi\nNở hậu",
+        "ChieuNgang": "6 m",
+        "ChieuDai": "27 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "DT818, Thị trấn Thủ Thừa, Huyện Thủ Thừa, Long An",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "100 m²",
+        "Gia/M2": "13,70 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Mặt tiền",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "20 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đồng Nhân, Xã Hải Bối, Huyện Đông Anh, Hà Nội",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "97 m²",
+        "Gia/M2": "136,91 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ"
+    },
+    {
+        "DiaChi": "Đường Nguyễn Hoàng, Xã Sông Trầu, Huyện Trảng Bom, Đồng Nai",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "110 m²",
+        "Gia/M2": "6,91 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Đông Bắc",
+        "DacDiemNha/Dat": "Hẻm xe hơi",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "22 m"
+    },
+    {
+        "DiaChi": "45, Đường Huỳnh Tịnh Của, Xã Hòa Phước, Huyện Hòa Vang, Đà Nẵng",
+        "LoaiHinhDat": "Đất nền dự án",
+        "DienTichDat": "117.5 m²",
+        "Gia/M2": "24,51 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Tây",
+        "DacDiemNha/Dat": "Mặt tiền",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "23.5 m"
+    },
+    {
+        "DiaChi": "DT741, Xã Phước Hoà, Huyện Phú Giáo, Bình Dương",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "282 m²",
+        "Gia/M2": "1,62 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Mặt tiền",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "57 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Số 6, Phường Bình Hưng Hoà B, Quận Bình Tân, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "178 m²",
+        "Gia/M2": "44,66 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Hẻm xe hơi\nThổ cư toàn bộ",
+        "ChieuNgang": "6.4 m",
+        "ChieuDai": "27.8 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Đặng Văn Bi, Phường Trường Thọ (Quận Thủ Đức cũ), Thành phố Thủ Đức, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "52 m²",
+        "Gia/M2": "78,85 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Hẻm xe hơi",
+        "ChieuNgang": "4.5 m",
+        "ChieuDai": "11.4 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Nguyễn Lâm, Phường Thọ Quang, Quận Sơn Trà, Đà Nẵng",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "110 m²",
+        "Gia/M2": "51,82 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Đông",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "22 m"
+    },
+    {
+        "DiaChi": "Đường Nguyễn Văn Quá, Phường Tân Hưng Thuận, Quận 12, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "80 m²",
+        "Gia/M2": "88,75 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "ChieuNgang": "4 m",
+        "ChieuDai": "20 m"
+    },
+    {
+        "DiaChi": "a6, Xã Cư ÊBur, Thành phố Buôn Ma Thuột, Đắk Lắk",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "105 m²",
+        "Gia/M2": "27,14 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Thăng Long, Phường Tự An, Thành phố Buôn Ma Thuột, Đắk Lắk",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "100 m²",
+        "Gia/M2": "49 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Hà Huy Tập, Phường Tân Lợi, Thành phố Buôn Ma Thuột, Đắk Lắk",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "183 m²",
+        "Gia/M2": "7,54 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Cầu Bình Nhâm, Phường Bình Nhâm, Thành phố Thuận An, Bình Dương",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "64 m²",
+        "Gia/M2": "22,66 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DacDiemNha/Dat": "Hẻm xe hơi"
+    },
+    {
+        "DiaChi": "Hẻm 128 Đường Nguyễn Thái Học, Phường Trảng Dài, Thành phố Biên Hòa, Đồng Nai",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "101 m²",
+        "Gia/M2": "15,84 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Tây",
+        "DacDiemNha/Dat": "Hẻm xe hơi",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "20 m",
+        "TenPhanKhu": "đất ở đô thị",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Phùng Hưng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "100 m²",
+        "Gia/M2": "56,70 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Tây Bắc",
+        "DacDiemNha/Dat": "Mặt tiền",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "20 m"
+    },
+    {
+        "DiaChi": "Đường Đồng Khởi, Phường Tân Lợi, Thành phố Buôn Ma Thuột, Đắk Lắk",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "170 m²",
+        "Gia/M2": "19,94 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Đồng Khởi, Phường Tân Lợi, Thành phố Buôn Ma Thuột, Đắk Lắk",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "125 m²",
+        "Gia/M2": "22,80 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Số 1 Kdc Nam Hùng Vương, Phường An Lạc, Quận Bình Tân, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất nền dự án",
+        "DienTichDat": "100 m²",
+        "Gia/M2": "110 triệu/m²",
+        "GiayToPhapLy": "Đã có sổ",
+        "HuongDat": "Tây Bắc",
+        "DacDiemNha/Dat": "Mặt tiền",
+        "ChieuNgang": "5 m",
+        "ChieuDai": "20 m",
+        "DonVi(M2/Hecta)": "m²"
+    },
+    {
+        "DiaChi": "Đường Lý Thường Kiệt, Thị trấn Hóc Môn, Huyện Hóc Môn, Tp Hồ Chí Minh",
+        "LoaiHinhDat": "Đất thổ cư",
+        "DienTichDat": "52 m²",
+        "Gia/M2": "55,77 triệu/m²",
+        "GiayToPhapLy": "Đang chờ sổ",
+        "DacDiemNha/Dat": "Mặt tiền\nHẻm xe hơi\nNở hậu\nThổ cư toàn bộ",
+        "ChieuNgang": "4.6 m",
+        "ChieuDai": "11.5 m",
+        "DonVi(M2/Hecta)": "m²"
+    }
+]
