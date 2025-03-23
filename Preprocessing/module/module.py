@@ -77,4 +77,30 @@ def chuyen_hoa_giay_to_phap_ly(x):
         return 4  # Trả về 4 kiểu int
     else:
         return None  # Trả về None nếu không khớp với bất kỳ giá trị nào
+import unidecode
+
+def chuyen_hoa_huong_dat(x):
+    if not isinstance(x, str):  # Nếu giá trị không phải chuỗi (str), ví dụ NaN, None thì hàm trả về None
+        return 0
+    
+    # Loại bỏ dấu và chuyển thành chữ hoa để chuẩn hóa dữ liệu
+    x = unidecode.unidecode(x).upper()
+
+    if x == "DONG NAM":
+        return 1
+    elif x == 'DONG BAC':
+        return 2
+    elif x == "TAY BAC":
+        return 3
+    elif x == "TAY NAM":
+        return 4
+    elif x == "DONG":
+        return 5
+    elif x == "NAM":
+        return 6
+    elif x == "TAY":
+        return 7
+    elif x == "BAC":
+        return 8
+    return 0  # Nếu không phải các hướng trong danh sách
 
