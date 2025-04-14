@@ -103,4 +103,152 @@ def chuyen_hoa_huong_dat(x):
     elif x == "BAC":
         return 8
     return 0  # Nếu không phải các hướng trong danh sách
+def convert_to_trieu(x):
+    # Kiểm tra nếu giá trị không phải là chuỗi, trả về 0
+    if not isinstance(x, str):
+        return 0
+    
+    # Loại bỏ dấu và chuyển thành chữ hoa
+    x = unidecode.unidecode(x).upper()
+    
+    # Tách phần sau dấu '/'
+    unit = x.split('/')[0].strip().split(' ')[1]  # Lấy phần sau dấu '/' và loại bỏ khoảng trắng
+    value=x.split('/')[0].strip().split(' ')[0]
+    # Tách phần số
+    value = value.replace(',', '.')
 
+    value = float(value)  # Chuyển giá trị thành số
+    
+    # Chuyển đổi theo đơn vị
+    if 'TRIEU' == unit:
+        return value  # Đã là triệu, không cần chuyển đổi
+    elif 'TY' in unit:
+        return value * 1000  # 1 tỷ = 1,000 triệu
+    elif 'D' in unit:
+        return value / 1000000  # 1 triệu = 1,000,000 đ
+    return 0  # Nếu không có đơn vị hợp lệ, trả về 0
+def tach_dia_chi(dia_chi):
+    if not isinstance(dia_chi, str):
+        return None
+    dia_chi = dia_chi.replace("Tp Hồ Chí Minh", "Thành phố Hồ Chí Minh")
+    dia_chi = dia_chi.replace('Thừa Thiên Huế', 'Thành phố Huế')
+
+
+    dia_chi_parts = [part.strip() for part in dia_chi.split(',')]
+
+    # Kiểm tra nếu có đủ 4 phần (Thành Phố, Quận, Phường, Thông tin thêm)
+    if len(dia_chi_parts) >= 4:
+        thanh_pho_tinh = dia_chi_parts[-1]  # Thành phố/Tỉnh
+        quan_huyen = dia_chi_parts[-2]      # Quận/Huyện
+        phuong_xa = dia_chi_parts[-3]       # Phường/Xã
+        thong_tin_them = ', '.join(dia_chi_parts[:-3])  # Các thông tin còn lại
+    elif len(dia_chi_parts) == 3:
+        thanh_pho_tinh = dia_chi_parts[-1]  # Thành phố/Tỉnh
+        quan_huyen = dia_chi_parts[-2]      # Quận/Huyện
+        phuong_xa = ', '.join(dia_chi_parts[:-2])
+        thong_tin_them = ""  # Các thông tin còn lại
+    elif len(dia_chi_parts) == 2:
+        thanh_pho_tinh = dia_chi_parts[-1]  # Thành phố/Tỉnh
+        quan_huyen = dia_chi_parts[0]
+        phuong_xa = ""
+        thong_tin_them = ""  # Các thông tin còn lại
+    else:
+        thanh_pho_tinh = dia_chi_parts[0]
+        quan_huyen = ""
+        phuong_xa = ""
+        thong_tin_them = ""
+
+    return {
+        "Thành Phố / Tỉnh": thanh_pho_tinh,
+        "Quận / Huyện": quan_huyen,
+        "Phường / Xã": phuong_xa,
+        "Thông Tin Thêm": thong_tin_them
+    }
+import json
+
+# Đọc file JSON chứa thông tin về tỉnh, quận, phường
+with open('../data/DonViHanhChinh.json', 'r', encoding='utf-8') as f:
+    donvihanhchinh = json.load(f)
+import unicodedata
+def so_hoa_thanh_pho(dia_chi_data):
+
+    thanh_pho_tinh = dia_chi_data['Thành Phố / Tỉnh']
+    if "Hòa Bình" in thanh_pho_tinh:
+        # Chuẩn hóa tên thành phố, quận, phường chỉ khi là Hòa Bình
+        thanh_pho_tinh = unicodedata.normalize('NFD', thanh_pho_tinh).encode('ascii', 'ignore').decode('utf-8').strip().upper()
+    elif "Thừa Thiên Huế" in thanh_pho_tinh:
+        # Nếu là Thừa Thiên Huế, thay thế thành Thành phố Huế
+        thanh_pho_tinh = "Thành phố Huế"
+    thanh_pho_tinh = thanh_pho_tinh.strip().upper()
+
+
+
+    # Khởi tạo mã các cấp là 0
+    ma_tinh = 0
+
+    # Duyệt qua toàn bộ tỉnh
+    for item in donvihanhchinh:
+        # Kiểm tra Tỉnh/Thành phố
+        if thanh_pho_tinh in item['Tỉnh / Thành Phố'].strip().upper() :
+            ma_tinh = item['Mã Tỉnh']
+            break
+        else:
+            if thanh_pho_tinh in unicodedata.normalize('NFD', item['Tỉnh / Thành Phố']).encode('ascii', 'ignore').decode('utf-8').strip().upper():
+                ma_tinh = item['Mã Tỉnh']
+                break
+    # Nếu không tìm thấy mã nào, in cảnh báo
+    if ma_tinh == 0:
+        print(f"Cảnh báo: Không tìm thấy mã cho tỉnh {thanh_pho_tinh}")
+    return {
+        "Mã Tỉnh": ma_tinh,
+    }
+count=0
+def so_hoa_quan(ma_tinh, quan_huyen):
+    ma_quan = 0
+    global count
+    count+=1
+    if(count==114):
+        print(quan_huyen)
+    if quan_huyen=="Thị xã Bến Cát":
+        quan_huyen="Thành phố Bến Cát"
+        quan_huyen = unicodedata.normalize('NFD', quan_huyen).encode('ascii', 'ignore').decode('utf-8').strip().upper()
+    if quan_huyen=="Thị xã Phú Mỹ":
+        quan_huyen="Thành phố Phú Mỹ"
+        quan_huyen = unicodedata.normalize('NFD', quan_huyen).encode('ascii', 'ignore').decode('utf-8').strip().upper()
+    if quan_huyen=="Huyện Chơn Thành":
+        quan_huyen="Thị xã Chơn Thành"
+        quan_huyen = unicodedata.normalize('NFD', quan_huyen).encode('ascii', 'ignore').decode('utf-8').strip().upper()
+
+    # Duyệt qua quận huyện trong tỉnh dựa trên mã tỉnh
+    for item in donvihanhchinh:
+        if item['Mã Tỉnh'] == ma_tinh:
+            for quan in item['Quận Huyện']:
+                # Kiểm tra nếu là "Thị xã Bến Cát", thay thế thành "Thành phố Bến Cát"
+                # Tìm quận/huyện khớp với giá trị sau khi thay thế
+                if quan_huyen.strip().upper() in quan['Quận Huyện'].strip().upper():
+                    ma_quan = quan['Mã Quận Huyện']
+                    break  # Dừng lại khi tìm thấy quận
+                else:
+                    if quan_huyen in unicodedata.normalize('NFD', quan['Quận Huyện']).encode('ascii', 'ignore').decode('utf-8').strip().upper():
+                        ma_quan = quan['Mã Quận Huyện']
+                        break
+            break  # Dừng lại khi tìm thấy tỉnh
+
+    return ma_quan
+
+def so_hoa_phuong(ma_tinh, ma_quan, phuong_xa):
+    ma_phuong = 0
+
+    # Duyệt qua phường xã trong quận dựa trên mã quận
+    for item in donvihanhchinh:
+        if item['Mã Tỉnh'] == ma_tinh:
+            for quan in item['Quận Huyện']:
+                if quan['Mã Quận Huyện'] == ma_quan:
+                    for phuong in quan['Cấp']:
+                        if phuong_xa.strip().upper() in phuong['Tên'].strip().upper():
+                            ma_phuong = phuong['Mã']
+                            break  # Dừng lại khi tìm thấy phường
+                    break  # Dừng lại khi tìm thấy quận
+            break  # Dừng lại khi tìm thấy tỉnh
+
+    return ma_phuong
